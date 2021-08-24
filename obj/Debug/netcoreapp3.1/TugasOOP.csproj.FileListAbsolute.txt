@@ -1,0 +1,14 @@
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.exe
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.deps.json
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.runtimeconfig.json
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.runtimeconfig.dev.json
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.dll
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.pdb
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.csproj.AssemblyReference.cache
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.AssemblyInfoInputs.cache
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.AssemblyInfo.cs
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.csproj.CoreCompileInputs.cache
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.dll
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.pdb
+C:\Users\achma\source\repos\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.genruntimeconfig.cache
